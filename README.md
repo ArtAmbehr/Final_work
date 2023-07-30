@@ -60,8 +60,11 @@
 ![1](Screenshots/12.png)
 
 ![1](Screenshots/13.png)
+
 ![1](Screenshots/14.png)
+
 ![1](Screenshots/15.png)
+
 ![1](Screenshots/16.png)
 
 9. Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения
